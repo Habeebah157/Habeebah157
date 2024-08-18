@@ -1,13 +1,8 @@
-<!-- **`Computer Science Student (Futrue Software Engineer)`**
+**`Computer Science Student (Futrue Software Engineer)`** 
 
-- 👋 Hi, I’m @Habeebah157
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
-- 💞️ I'm a college student (class of May 2025) for a full time position
-- 📫 You can reach me through linkedin- https://www.linkedin.com/in/habeebah-m-5b29b71a4/ -->
 
 <h1 align='center'>
-  Hi there 👋 I'm Habeebah Muse 👩🏿‍💻
+  Hi there 👋 I'm Habeebah Muse 👩🏿‍💻 I graduate in May 2025
 </h1>
 <p align='center'>
   <a href="https://www.linkedin.com/in/habeebahmuse/">
@@ -39,6 +34,7 @@
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 <p align='center'>
+👩🏿‍💻 Languages  <br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
