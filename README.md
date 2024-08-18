@@ -7,7 +7,7 @@
 - 📫 You can reach me through linkedin- https://www.linkedin.com/in/habeebah-m-5b29b71a4/ -->
 
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm Habeebah Muse 👩🏿‍💻
 </h1>
 
 <!---
