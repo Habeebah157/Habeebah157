@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Habeebah Muse 👩🏿‍💻 I graduate in May 2025
+  Hi there 👋 I'm Habeebah Muse 👩🏿‍💻 I graduate May 2025
 </h1>
 <p align='center'>
   <a href="https://www.linkedin.com/in/habeebahmuse/">
